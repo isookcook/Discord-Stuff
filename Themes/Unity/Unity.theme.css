@@ -18,7 +18,7 @@
 .theme-dark,
 .theme-light {
 
-    --unity-custom-font: unset;
+    --unity-custom-font: Politik;
     
     --unity-gaps: 1;
     --unity-background-color: rgba(var(--unity-inactive-darker-rgb), 0.2);
@@ -35,7 +35,7 @@
     --settings-margin: 10vh;
     --settings-bg-blur-radius: 10px;
 
-    --unity-chat-bubble: 1;
+    --unity-chat-bubble: 0;
     --unity-chat-bubble-background-color: var(--background-secondary);
     --unity-chat-bubble-border-color: var(--background-secondary-alt);
     --unity-chat-bubble-code-background-color: var(--background-secondary-alt);
